@@ -11,7 +11,7 @@ Im Nether gibt es Netherquarz den du für Tageslichtsensoren und Beobachter brau
 ## Lohe
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
-| Leben         | 20 ❤         |
+| Leben         | 10 ❤         |
 | Schaden       | 2-4,5 💔      |
 | Spawnt        | Bei &le; 11 im Nether   |
 | Dropt         | Lohenrute     |
@@ -21,7 +21,7 @@ Im Nether gibt es Netherquarz den du für Tageslichtsensoren und Beobachter brau
 
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
-| Leben         | 10 ❤         |
+| Leben         | 5 ❤          |
 | Schaden       | 4,5-12,5 💔   |
 | Spawnt        | im Nether     |
 | Dropt         | Schwarzpulver,Ghastträne|
@@ -31,8 +31,29 @@ Im Nether gibt es Netherquarz den du für Tageslichtsensoren und Beobachter brau
 
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
-| Leben         | 20 ❤         |
+| Leben         | 10 ❤         |
 | Schaden       | 2-4,5 💔      |
 | Spawnt        | Bei &le; 11 im Nether|
 | Dropt         | Magmacreme    |
 | Erfahrung     | 10            |
+
+
+## Schweinezombie
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 10 ❤         |
+| Schaden       | 3-6,5 💔      |
+| Spawnt        | im Nether     |
+| Dropt         | verrottetes Fleisch,Goldklumpen|
+| Erfahrung     | 5             |
+
+## Witherskelett
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 10 ❤         |
+| Schaden       | 2-5 💔        |
+| Spawnt        | bei &le 7 im Nether|
+| Dropt         | Knochen,Kohle |
+| Erfahrung     | 5             |
