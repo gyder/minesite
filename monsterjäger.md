@@ -1,8 +1,8 @@
-## Monsterjäger
+# Monsterjäger
 
 [Hauptseite](README.md)
 
-Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegensten Monstern.
+Jetzt kommen Steckbriefe von Monstern.
 
 ### Creeper
 
@@ -44,7 +44,7 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Dropt         | Schleimball   |
 | Erfahrung     | 1-5           |
 
-## Skelett
+### Skelett
 
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
@@ -54,7 +54,7 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Dropt         | Knochen,Pfeil |
 | Erfahrung     | 5             |
 
-## Silberfischchen
+### Silberfischchen
 
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
@@ -64,7 +64,7 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Dropt         | -             |
 | Erfahrung     | 5             |
 
-## Diener
+### Diener
 
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
