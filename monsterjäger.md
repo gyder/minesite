@@ -23,3 +23,33 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Spawnt        | Bei &le; 7    |
 | Dropt         | Faden         |
 | Erfahrung     | 5             |
+
+### Zombie
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 20 ❤         |
+| Schaden       | 1-2 💔        |
+| Spawnt        | Bei &le; 7    |
+| Dropt         | Verrottetes Fleisch|
+| Erfahrung     | 5             |
+
+### Schleim
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 4 ❤          |
+| Schaden       | 0-3 💔        |
+| Spawnt        | Bei &le; 8    |
+| Dropt         | Schleimball   |
+| Erfahrung     | 1-5           |
+
+
+
+
+
+
+
+
+
+
