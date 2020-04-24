@@ -10,3 +10,4 @@
 | Schaden       | 12-25,5 Herzen|
 | Spawnt        | Bei &le; 7    |
 | Dropt         | Schwarzpulver |
+| Erfahrung     | 5             |
