@@ -44,6 +44,36 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Dropt         | Schleimball   |
 | Erfahrung     | 1-5           |
 
+## Skelett
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 5 ❤          |
+| Schaden       | 0,5-2,5 💔    |
+| Spawnt        | Bei &le; 7    |
+| Dropt         | Knochen,Pfeil |
+| Erfahrung     | 5             |
+
+## Silberfischchen
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 5 ❤          |
+| Schaden       | 0,5 💔        |
+| Spawnt        | Im Biom Extreme Berge|
+| Dropt         | -             |
+| Erfahrung     | 5             |
+
+## Diener
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 10 ❤         |
+| Schaden       | 3,5-9,5 💔    |
+| Spawnt        | In Waldanwesen|
+| Dropt         | Eisenaxt,Smaragd|
+| Erfahrung     | 5             |
+
 Und nun die einzigen zwei Bosse von Minecraft:
 
 ### Wither
