@@ -1,7 +1,7 @@
 ## Monsterjäger
 
 [Hauptseite](README.md)
-
+Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegensten Monstern.
 ### Creeper
 
 | Was           | Wieviel       |
