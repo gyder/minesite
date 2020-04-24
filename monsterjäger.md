@@ -5,9 +5,9 @@
 ### Creeper
 
 | Was           | Wieviel       |
-| ------------- |:-------------:|
-| Leben         | 20 Herzen     |
-| Schaden       | 12-24,5:broken_heart:|
+|:-------------:|:-------------:|
+| Leben         | 20 :heart:    |
+| Schaden       | 12-24,5 :broken_heart:|
 | Spawnt        | Bei &le; 7    |
 | Dropt         | Schwarzpulver |
 | Erfahrung     | 5             |
