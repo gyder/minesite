@@ -1,3 +1,3 @@
-## Meine Minecraft Seite
+## Minecraft Seite
 
 [Monsterjäger](monsterjäger.md)
