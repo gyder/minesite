@@ -49,7 +49,23 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 Und nun die einzigen zwei Bosse von Minecraft:
 
 
+### Wither
+
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 300 ❤        |
+| Schaden       | 2,5-6 💔      |
+| Spawnt        | Durch herbeibeschwören|
+| Dropt         | Netherstern   |
+| Erfahrung     | 50            |
 
 
+### Enderdrache
 
-
+| Was           | Wieviel       |
+|:-------------:|:-------------:|
+| Leben         | 200 ❤        |
+| Schaden       | 3-7,5 💔      |
+| Spawnt        | Im End        |
+| Dropt         | Drachenei     |
+| Erfahrung     | 500           |
