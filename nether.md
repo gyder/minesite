@@ -6,7 +6,7 @@ Der Nether ist sozusagen die Hölle von Minecraft.
 
 ![Nether](https://gamepedia.cursecdn.com/minecraft_de_gamepedia/thumb/a/a3/Nether_Bild.png/450px-Nether_Bild.png?version=f740efd3f1e91412463bb4f4a06eb572)
 
-Im Nether gibt es Netherquarz,Glowstone(einen gelblichen leuchtstein) und Netherstein. Netherstein ist sehr nützlich wenn du einen für immer brennenden Kamin haben möchtest denn Netherstein brennt für immer wenn du ihn mit einem Feuerzeug anzündest.Netherquarz brauchst du für Tageslichtsensoren und Beobachter brauchst.Manchmal findest du im Nether eine Netherfestung.Außerdem gibt es dort verschiedene Monster (die meisten von ihnen droppen Sachen die du unter anderem zum brauen verwenden kannst) nun kommt eine Liste der Monster aus dem Nether :
+Im Nether gibt es Netherquarz, Glowstone(einen gelblichen Leuchtstein) und Netherstein. Netherstein ist sehr nützlich wenn du einen für immer brennenden Kamin haben möchtest denn Netherstein brennt für immer wenn du ihn mit einem Feuerzeug anzündest. Netherquarz brauchst du für Tageslichtsensoren und Beobachter brauchst. Manchmal findest du im Nether eine Netherfestung. Außerdem gibt es dort verschiedene Monster (die meisten von ihnen droppen Sachen die du unter anderem zum brauen verwenden kannst) nun kommt eine Liste der Monster aus dem Nether :
 
 ## Lohe
 
