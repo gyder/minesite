@@ -8,3 +8,4 @@ Der Nether ist sozusagen die Hölle von Minecraft.
 
 Im Nether gibt es Netherquarz den du für Tageslichtsensoren und Beobachter brauchst.
 
+ttt
