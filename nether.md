@@ -9,6 +9,7 @@ Der Nether ist sozusagen die Hölle von Minecraft.
 Im Nether gibt es Netherquarz den du für Tageslichtsensoren und Beobachter brauchst.Manchmal findest du im Nether eine Netherfestung.Außerdem gibt es dort verschiedene Monster (die meisten von ihnen droppen Sachen die du unter anderem zum brauen verwenden kannst) nun liste ich sie auf:
 
 ## Lohe
+
 | Was           | Wieviel       |
 |:-------------:|:-------------:|
 | Leben         | 10 ❤         |
