@@ -44,10 +44,7 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 | Dropt         | Schleimball   |
 | Erfahrung     | 1-5           |
 
-
-
 Und nun die einzigen zwei Bosse von Minecraft:
-
 
 ### Wither
 
