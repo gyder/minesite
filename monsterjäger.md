@@ -46,7 +46,7 @@ Damit du etwas über Monster weißt kommen hier Steckbriefe von den grundliegens
 
 
 
-
+Und nun die einzigen zwei Bosse von Minecraft:
 
 
 
