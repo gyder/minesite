@@ -1,5 +1,7 @@
 # Tränke
  
+ [Hauptseite](README.md)
+ 
  Tränke sind die höchste Form von Minecraft. Nun kommen einige Rezepte:
  
 
