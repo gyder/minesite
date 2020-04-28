@@ -13,3 +13,4 @@
 |Schnelligkeit|Zucker+ Seltsamer Trank|Spieler läuft schneller|Normal: 3:00 m<br>Verlängert: 8:00 m|
 |Unterwasser<wbr>atmung|Kugelfisch+ Seltsamer Trank|Spieler atmet unter Wasser länger|Normal: 3:00 m<br>Verlängert: 8:00 m|
 |Sprungkraft|Hasenpfote+ Seltsamer Trank|Spiele springt höher, weniger Schaden beim Fallen|Normal: 3:00 m<br>Verlängert: 8:00 m|
+|Unsichtbarkeit|Fermentiertes Spinnenauge+ Seltsamer Trank|Spiele wird unsichtbar|Normal: 3:00 m<br>Verlängert: 8:00 m|
