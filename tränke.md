@@ -2,7 +2,7 @@
  
  [Hauptseite](README.md)
  
- Tränke sind die höchste Form von Minecraft. Nun kommen ein paar Rezepte:
+ Für Tränke benötigst du einen Braustand. Sie sind die höchste Form von Minecraft. Nun kommen ein paar Rezepte:
  
 
 | Zaubertrank   | Zutaten       | Beschreibung  | Dauer         |
