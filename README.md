@@ -8,7 +8,3 @@ Kapitel:
 1. [Enderdrache besiegen](end.md)
 1. Verzaubern(vezaubern.md)
 1. Tränke(tränke.md)
-
-
-
-
