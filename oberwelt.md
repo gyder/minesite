@@ -21,4 +21,5 @@ falls du neben einem Dorf spawnst hast du mehr als **drei** `Weizen` und kannst 
 
 Du brauchst auf jeden fall einen Unterschlupf.
 Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein.
-In deinem Unterschlupf craftest du dir
+In deinem Unterschlupf craftest du dir Fackeln damit in der Nacht keine Monster im Haus Spawnen.
+
