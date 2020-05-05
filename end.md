@@ -6,6 +6,9 @@
                                           
 Um ins End zu gelangen musst Du eine Festung finden.
 Eine Festung findest du indem du ein Enderauge in die Luft wirfst und seiner Bahn folgst.
+
+![Enderauge](https://www.minecraftcrafting.info/imgs/craft_eyeofender.png)
+
 Nach ungefähr 50 Blöcken wirfst du ein zweites und folgst wieder seiner Bahn.
 Das wiederholst du solange bis das Enderauge nur noch auf der Stelle fliegt.
 Dann gräbst du dich solange nach unten bis du auf Steinziegel stößt.
