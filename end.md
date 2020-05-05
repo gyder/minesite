@@ -28,6 +28,9 @@ Wenn alle Enderkristalle zerstört sind gehst du auf den Enderdrachen.
 Deine Taktik geht so: Wenn der Enderdrache in den Sturzflug geht weichst du aus weil er dich sonst in die Luft schleudern würde.
 Wenn du ihm ausgewichen bist schwebt der Enderdrache kurz über dem Boden und du kannst auf ihn eindreschen.
 Diese Taktik verwendest du so oft bis der Enderdrache tot ist.
+
+![Enderdrache tot](https://gamepedia.cursecdn.com/minecraft_de_gamepedia/thumb/3/3d/Enderdrache_stirbt.png/120px-Enderdrache_stirbt.png?version=219be3743e987f5e8089b3ac331b59fd)
+
 Wenn du ihn besiegt hast sammelst du die Erfahrungspunkte ein und Springst in das Portal das sich in der Mitte geöffnet hat.
 Entspannt genießt du den Abspann und kommst wieder in der Oberwelt an.
 
