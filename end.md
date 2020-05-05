@@ -17,6 +17,9 @@ In der Festung angekommen durchsuchst du die Gänge bis du auf den Portalraum st
 Du solltest in einer Obsidian-Kammer spawnen.
 Wenn du dich aus ihr herausgebaut hast solltest du Auf der End-Hauptinsel sein.
 Du gehst in die Mitte des Obsidian-Säulen Kreises und Erspähst den Enderdrachen.
+
+![End](https://gamepedia.cursecdn.com/minecraft_de_gamepedia/e/e2/Enderdrache.gif)
+
 Als allererstes zerstörst du auf jedem Obsidian-Turm den Enderkristall denn aus ihnen holt der Enderdrache neue Lebensenergie.
 Wenn alle Enderkristalle zerstört sind gehst du auf den Enderdrachen.
 Deine Taktik geht so: Wenn der Enderdrache in den Sturzflug geht weichst du aus weil er dich sonst in die Luft schleudern würde.
@@ -25,4 +28,4 @@ Diese Taktik verwendest du so oft bis der Enderdrache tot ist.
 Wenn du ihn besiegt hast sammelst du die Erfahrungspunkte ein und Springst in das Portal das sich in der Mitte geöffnet hat.
 Entspannt genießt du den Abspann und kommst wieder in der Oberwelt an.
 
-![End](https://gamepedia.cursecdn.com/minecraft_de_gamepedia/e/e2/Enderdrache.gif)
+
