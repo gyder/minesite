@@ -2,9 +2,10 @@
  
  [Hauptseite](README.md)
  
- Für Tränke benötigst du einen Braustand.
+ Für Tränke benötigst du einen Braustand,Flaschen und Zutaten.
  
  ![Braustand](https://www.minecraftcrafting.info/imgs/craft_brewingstand.png)
+ ![Flasche](https://www.minecraftcrafting.info/imgs/craft_glassbottle.png)
  
  Sie sind die höchste Form von Minecraft.
  Nun kommen ein paar Rezepte:
