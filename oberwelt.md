@@ -12,3 +12,6 @@ Du brauchst auf jeden fall einen Unterschlupf. Am besten suchst du dir einen Hü
 
 ![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
 
+falls du neben einem Dorf spawnst hast du Weizen und kannst dir Brot craften.
+
+![Brot](https://www.minecraftcrafting.info/imgs/craft_bread.png)
