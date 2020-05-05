@@ -10,7 +10,7 @@ Jetzt kommen Steckbriefe von Monstern.
 |:-------------:|:-------------:|
 | Leben         | 20 ❤         |
 | Schaden       | 12-24,5 💔    |
-| Spawnt        | Bei &le; 7    |
+| Spawnt        | Bei Lichtlevel &le; 7    |
 | Dropt         | Schwarzpulver |
 | Erfahrung     | 5             |
 
@@ -20,7 +20,7 @@ Jetzt kommen Steckbriefe von Monstern.
 |:-------------:|:-------------:|
 | Leben         | 16 ❤         |
 | Schaden       | 1-1,5 💔      |
-| Spawnt        | Bei &le; 7    |
+| Spawnt        | Bei Lichtlevel &le; 7    |
 | Dropt         | Faden         |
 | Erfahrung     | 5             |
 
@@ -30,7 +30,7 @@ Jetzt kommen Steckbriefe von Monstern.
 |:-------------:|:-------------:|
 | Leben         | 20 ❤         |
 | Schaden       | 1-2 💔        |
-| Spawnt        | Bei &le; 7    |
+| Spawnt        | Bei Lichtlevel &le; 7    |
 | Dropt         | Verrottetes Fleisch|
 | Erfahrung     | 5             |
 
@@ -40,7 +40,7 @@ Jetzt kommen Steckbriefe von Monstern.
 |:-------------:|:-------------:|
 | Leben         | 4 ❤          |
 | Schaden       | 0-3 💔        |
-| Spawnt        | Bei &le; 8    |
+| Spawnt        | Bei Lichtlevel &le; 8    |
 | Dropt         | Schleimball   |
 | Erfahrung     | 1-5           |
 
@@ -50,7 +50,7 @@ Jetzt kommen Steckbriefe von Monstern.
 |:-------------:|:-------------:|
 | Leben         | 5 ❤          |
 | Schaden       | 0,5-2,5 💔    |
-| Spawnt        | Bei &le; 7    |
+| Spawnt        | Bei Lichtlevel &le; 7    |
 | Dropt         | Knochen,Pfeil |
 | Erfahrung     | 5             |
 
