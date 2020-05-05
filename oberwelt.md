@@ -8,7 +8,7 @@ Du spawnst in der Oberwelt. Wenn du spawnst geht es dir als allererstes um ein B
 
 ![Bett](https://www.minecraftcrafting.info/imgs/craft_bed.png)
 
- Für einen ofen brauchst du eine Werkbank. Wenn du schon mehr als acht Bruchstein hast craftest du dir an der Werkbank einen Ofen.
+ Für einen Ofen brauchst du eine Werkbank. Wenn du schon mehr als acht Bruchstein hast craftest du dir an der Werkbank einen Ofen.
 
 ![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
 
