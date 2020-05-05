@@ -8,10 +8,12 @@ Du spawnst in der Oberwelt. Wenn du spawnst geht es dir als allererstes um ein B
 
 ![Bett](https://www.minecraftcrafting.info/imgs/craft_bed.png)
 
-Du brauchst auf jeden fall einen Unterschlupf. Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein. Wenn du schon eine Werkbank und mehr als acht Bruchstein hast craftest du dir einen Ofen.
+ Für einen ofen brauchst du eine Werkbank. Wenn du schon mehr als acht Bruchstein hast craftest du dir an der Werkbank einen Ofen.
 
 ![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
 
 falls du neben einem Dorf spawnst hast du Weizen und kannst dir Brot craften.
 
 ![Brot](https://www.minecraftcrafting.info/imgs/craft_bread.png)
+
+ Du brauchst auf jeden fall einen Unterschlupf. Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein.
