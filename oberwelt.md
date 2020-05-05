@@ -6,4 +6,8 @@
 
 Du spawnst in der Oberwelt. Wenn du spawnst geht es dir als allererstes um ein Bett in das du dich schlafen legen kannst um die Nacht zu überspringen. Für ein Bett brauchst du 3 Holzbretter und 3 Wollblöcke.
 
-![Bett](https://files.spieletipps.de/cont_img/ab/4a/10/ab4a10_5065f298012ed_ciA2NDIDYWFfNjIwZQ==.png)
+![Bett](https://www.minecraftcrafting.info/imgs/craft_bed.png)
+
+Du brauchst auf jeden fall einen Unterschlupf. Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein. Wenn du schon eine Werkbank und mehr als 8 Bruchstein hast craftest du dir einen Ofen.
+
+![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
