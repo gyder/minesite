@@ -14,6 +14,9 @@ Das wiederholst du solange bis das Enderauge nur noch auf der Stelle fliegt.
 Dann gräbst du dich solange nach unten bis du auf Steinziegel stößt.
 Nun baust du die Steinziegel ab und solltest in eine Festung gelangen.
 In der Festung angekommen durchsuchst du die Gänge bis du auf den Portalraum stößt, im Portalraum füllst du die leeren Portalrahmen mit Enderaugen und springst in das Portal.
+
+![Endportalrahmen](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGYHebQZbF1_Bnhzf77i5waq9JtZHhnCWi8nac6fB4cOpnXEpw&usqp=CAU)
+
 Du solltest in einer Obsidian-Kammer spawnen.
 Wenn du dich aus ihr herausgebaut hast solltest du Auf der End-Hauptinsel sein.
 Du gehst in die Mitte des Obsidian-Säulen Kreises und Erspähst den Enderdrachen.
