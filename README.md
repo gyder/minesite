@@ -1,7 +1,9 @@
-## Minecraft Seite
+# Minecraft Seite
     
 Kapitel:
-    
+ 
+ Auf dieser Website Lernst du, wenn auch nicht alles, über Minecraft.
+ 
 1. [Oberwelt](oberwelt.md)
 1. [Monsterjäger](monsterjäger.md)
 1. [Nether](nether.md)
