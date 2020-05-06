@@ -13,7 +13,7 @@ Für ein Bett brauchst du **drei** `Holzbretter` und **drei** `Wollblöcke`.
 
 Du brauchst auf jeden fall einen Unterschlupf.
 Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein.
-In deinem Unterschlupf craftest du dir Fackeln damit in der Nacht keine Monster im Haus Spawnen.
+In deinem Unterschlupf craftest du dir aus **einer** `Kohle` und **einem** `Stock` Fackeln damit in der Nacht keine Monster im Haus Spawnen.
 
 ![Fackel](https://www.minecraftcrafting.info/imgs/craft_torch.png)
 
