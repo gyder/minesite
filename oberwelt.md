@@ -10,20 +10,31 @@ Für ein Bett brauchst du **drei** `Holzbretter` und **drei** `Wollblöcke`.
 
 ![Bett](https://www.minecraftcrafting.info/imgs/craft_bed.png)
 
+
 Damit du die meisten Sachen craften kannst brauchst du eine Werkbank.
 
 ![Werkbank](https://www.minecraftcrafting.info/imgs/craft_workbench.png)
+
+
+Wenn dein Inventar voll ist Kannst du dir aus **acht** `Holzbrettern` Eine Truhe craften.
+
+![Truhe](https://www.minecraftcrafting.info/imgs/craft_chest.png)
+
 
 Wenn du schon mehr als **acht** `Bruchstein` hast craftest du dir an der Werkbank einen Ofen.
 
 ![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
 
+
 falls du neben einem Dorf spawnst hast du sicherlich mehr als **drei** `Weizen` und kannst dir Brot craften.
 
 ![Brot](https://www.minecraftcrafting.info/imgs/craft_bread.png)
+
 
 Du brauchst auf jeden fall einen Unterschlupf.
 Am besten suchst du dir einen Hügel und gräbst dich in ihn hinein.
 In deinem Unterschlupf craftest du dir Fackeln damit in der Nacht keine Monster im Haus Spawnen.
 
 ![Fackel](https://www.minecraftcrafting.info/imgs/craft_torch.png)
+
+
