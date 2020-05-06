@@ -15,7 +15,7 @@ Für ein Bett brauchst du **drei** `Holzbretter` und **drei** `Wollblöcke`.
 
 ![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
 
-falls du neben einem Dorf spawnst hast du mehr als **drei** `Weizen` und kannst dir Brot craften.
+falls du neben einem Dorf spawnst hast du sicherlich mehr als **drei** `Weizen` und kannst dir Brot craften.
 
 ![Brot](https://www.minecraftcrafting.info/imgs/craft_bread.png)
 
