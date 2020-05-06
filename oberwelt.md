@@ -38,6 +38,14 @@ falls du neben einem Dorf spawnst hast du sicherlich mehr als **drei** `Weizen` 
 ![Brot](https://www.minecraftcrafting.info/imgs/craft_bread.png)
 
 
+Du solltest schon gute Werkzeuge haben, wie diese:
 
+![Spitzhacke](https://www.minecraftcrafting.info/imgs/craft_pick.gif)
 
+![Axt](https://www.minecraftcrafting.info/imgs/craft_axe.gif)
 
+![Schaufel](https://www.minecraftcrafting.info/imgs/craft_shovel.gif)
+
+![Hacke](https://www.minecraftcrafting.info/imgs/craft_hoe.gif)
+
+![Schwert](https://www.minecraftcrafting.info/imgs/craft_sword.gif)
