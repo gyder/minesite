@@ -10,7 +10,7 @@ Für ein Bett brauchst du **drei** `Holzbretter` und **drei** `Wollblöcke`.
 
 ![Bett](https://www.minecraftcrafting.info/imgs/craft_bed.png)
 
- Für einen Ofen brauchst du eine Werkbank.
+Damit du die meisten Sachen craften kannst brauchst du eine Werkbank.
 
 ![Werkbank](https://www.minecraftcrafting.info/imgs/craft_workbench.png)
 
