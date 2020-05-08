@@ -18,7 +18,7 @@ Damit du auch weißt was Monster droppen wie viel Leben sie haben und so weiter 
 |:-------------:|:-------------:|
 | Leben         | 20 ❤         |
 | Schaden       | 12-24,5 💔    |
-| Spawnt        | Bei Lichtlevel &le; 7 |²³
+| Spawnt        | Bei Lichtlevel &le; 7 |
 | Dropt         | Schwarzpulver |
 | Erfahrung     | 5             |
 
