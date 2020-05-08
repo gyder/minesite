@@ -104,3 +104,11 @@ Und nun die einzigen zwei Bosse von Minecraft:
 | Spawnt        | Im End        |
 | Dropt         | Drachenei     |
 | Erfahrung     | 500           |
+
+
+Damit du auch gut gegen diese Monster geschützt bist kommen nun ein par Rezepte für deine verteidigung.
+
+![Helm](https://www.minecraftcrafting.info/imgs/craft_helmet.gif)
+![Brustplatte](https://www.minecraftcrafting.info/imgs/craft_chestplate.gif)
+![Hose](https://www.minecraftcrafting.info/imgs/craft_leggings.gif)
+![Schuhe](https://www.minecraftcrafting.info/imgs/craft_boots.gif)
