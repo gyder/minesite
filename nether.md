@@ -60,6 +60,6 @@ Außerdem gibt es dort verschiedene Monster (die meisten von ihnen droppen Sache
 |:-------------:|:-------------:|
 | Leben         | 10 ❤         |
 | Schaden       | 2-5 💔        |
-| Spawnt        | bei &le 7 im Nether|
+| Spawnt        | bei &le; 7 im Nether|
 | Dropt         | Knochen,Kohle |
 | Erfahrung     | 5             |
