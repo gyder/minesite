@@ -23,7 +23,7 @@ Damit du die meisten Sachen craften kannst brauchst du eine Werkbank.
 ![Werkbank](https://www.minecraftcrafting.info/imgs/craft_workbench.png)
 
 
-Wenn dein Inventar voll ist Kannst du dir aus **acht** `Holzbrettern` Eine Truhe craften.
+Wenn dein Inventar voll ist Kannst du dir aus **acht** `Holzbrettern` Eine Truhe craften. Eine Truhe Kann mehrere Gegenstände Aufnehmen.
 
 ![Truhe](https://www.minecraftcrafting.info/imgs/craft_chest.png)
 
