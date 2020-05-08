@@ -2,6 +2,11 @@
 
 [Hauptseite](README.md)
 
+
+
+![Schwert](https://www.minecraftcrafting.info/imgs/craft_sword.gif)
+
+
 Damit du auch weißt was Monster droppen wie viel Leben sie haben und so weiter kommen jetzt  Steckbriefe von Monstern.
 
 ### Creeper
