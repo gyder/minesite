@@ -2,7 +2,7 @@
 
 [Hauptseite](README.md)
 
-Damit du auch weißt was monster droppen wie viel Leben sie haben und so weiter kommen jetzt  Steckbriefe von Monstern.
+Damit du auch weißt was Monster droppen wie viel Leben sie haben und so weiter kommen jetzt  Steckbriefe von Monstern.
 
 ### Creeper
 
