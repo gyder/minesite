@@ -2,8 +2,11 @@
 
 [Hauptseite](README.md)
 
+Um Monster zu jagen brauchst du Waffen und Munition für Bögen.
 
 
+![Pfeil](https://www.minecraftcrafting.info/imgs/craft_arrow.png)
+![Bogen](https://www.minecraftcrafting.info/imgs/craft_bow.png)
 ![Schwert](https://www.minecraftcrafting.info/imgs/craft_sword.gif)
 
 
@@ -15,7 +18,7 @@ Damit du auch weißt was Monster droppen wie viel Leben sie haben und so weiter 
 |:-------------:|:-------------:|
 | Leben         | 20 ❤         |
 | Schaden       | 12-24,5 💔    |
-| Spawnt        | Bei Lichtlevel &le; 7    |
+| Spawnt        | Bei Lichtlevel &le; 7 |²³
 | Dropt         | Schwarzpulver |
 | Erfahrung     | 5             |
 
