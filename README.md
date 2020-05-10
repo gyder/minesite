@@ -9,4 +9,4 @@ Kapitel:
 1. [Nether](nether.md)
 1. [Enderdrache besiegen](end.md)
 1. [Tränke](tränke.md)
-    
+1. [Redstone](redstone.md)    
