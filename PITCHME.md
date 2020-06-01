@@ -25,6 +25,16 @@ _Dieses Projekt ist noch nicht fertig_
 - Werkbank
 - Ofen
 @ulend
+
 ---
 
-# Erbauen
+# Wie baue ich eine Base?
+
+### Grundkriterien der Base
+
+@ol
+1. 4 Wände 
+1. Ein Dach
+@olend
+
+---
