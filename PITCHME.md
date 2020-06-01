@@ -11,8 +11,8 @@ _Dieses Projekt ist noch nicht fertig_
 @ul
 - Überleben
 - Erbauen
-- Craften
 - Verteidigen
+- Angreifen
 @ulend
 
 ---
@@ -28,7 +28,7 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-## Wie baue ich eine Base?
+# Eine Base
 
 +++
 
@@ -59,6 +59,16 @@ _Dieses Projekt ist noch nicht fertig_
 @ulend
 
 ---
+
+# Erbauen
+
+@ul
+- Nachbauen
+- Selbst bauen
+@ulend
+
+---
+
 # ENDE
 
 Wir sehen uns online 🎮
