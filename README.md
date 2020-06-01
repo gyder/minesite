@@ -10,4 +10,4 @@ Kapitel:
 1. [Enderdrache besiegen](end.md)
 1. [Tränke](tränke.md)
 
-Ich habe auch eine Minecraft-Präsentation gebaut: https://gitpitch.com/teepau/minesite
+Ich habe auch eine [Minecraft-Präsentation](https://gitpitch.com/teepau/minesite) gebaut. 
