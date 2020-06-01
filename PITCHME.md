@@ -2,12 +2,15 @@
 
 Dies ist eine Minecraft-Präsentation.
 
-(Dieses Projekt ist noch im bau)
+_Dieses Projekt ist noch nicht fertig_
 
 ---
 
-# 2
-zwei
+# Grundlagen
+
+- z
+- w
+- ei
 
 +++
 
