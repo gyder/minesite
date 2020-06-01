@@ -35,9 +35,9 @@ _Dieses Projekt ist noch nicht fertig_
 ### Grundkriterien der Base
 
 @ol
-1.  4 Wände 
-1.  Ein Dach
-1.  Tür
+1. Wände 
+1. Ein Dach 
+1. Tür
 @olend
 
 ---
