@@ -49,6 +49,16 @@ _Dieses Projekt ist noch nicht fertig_
 @ulend
 
 ---
+
+### Wo baue ich eine Base ?
+
+@ul
+- Wald
+- Wasser
+- Berge
+@ulend
+
+---
 # ENDE
 
 Wir sehen uns online 🎮
