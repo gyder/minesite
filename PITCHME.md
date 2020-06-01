@@ -6,7 +6,7 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-## Grundziele
+# Grundziele
 
 @ul
 - Überleben
@@ -65,6 +65,25 @@ _Dieses Projekt ist noch nicht fertig_
 @ul
 - Nachbauen
 - Selbst bauen
+@ulend
+
++++
+
+## Nachbauen
+
+@ul
+- Kolosseum
+- Schiefer Turm von Pisa
+- Chinesische Mauer
+@ulend
+
++++
+
+## Selbst bauen
+
+@ul
+- Luxusjacht
+- Hoch-sicherheits Bank
 @ulend
 
 ---
