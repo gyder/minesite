@@ -6,21 +6,13 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-# Grundlagen
+# Grundziele
 
 @ul
-- z
-- w
-- ei
+- Überleben
+- Erbauen
+- Craften
 @ulend
-
-+++
-
-## 2 a
-
-+++
-
-## 2 b
 
 ---
 
