@@ -12,13 +12,14 @@ _Dieses Projekt ist noch nicht fertig_
 - Überleben
 - Erbauen
 - Craften
+- Verteidigen
 @ulend
 
 ---
 
-# 3
+# Überleben
 drei
 
 ---
 
-# Ende
+# Erbauen
