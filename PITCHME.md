@@ -1,6 +1,8 @@
-# 1
+# Minecraft
 
-Hallo Welt  
+Dies ist eine Minecraft-Präsentation.
+
+(Dieses Projekt ist noch im bau)
 
 ---
 
