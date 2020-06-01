@@ -6,7 +6,7 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-# Grundziele
+## Grundziele
 
 @ul
 - Überleben
@@ -17,7 +17,7 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-# Überleben
+## Überleben
 
 @ul
 - Base
@@ -28,7 +28,9 @@ _Dieses Projekt ist noch nicht fertig_
 
 ---
 
-# Wie baue ich eine Base?
+## Wie baue ich eine Base?
+
++++
 
 ### Grundkriterien der Base
 
@@ -38,3 +40,7 @@ _Dieses Projekt ist noch nicht fertig_
 @olend
 
 ---
+
+# ENDE
+
+Wir sehen uns online 🎮
