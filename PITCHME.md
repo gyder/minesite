@@ -12,7 +12,6 @@ _Dieses Projekt ist noch nicht fertig_
 - Überleben 
 - Erbauen
 - Verteidigen
-- Angreifen
 @ulend
 
 ---
