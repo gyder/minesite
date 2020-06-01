@@ -9,7 +9,7 @@ _Dieses Projekt ist noch nicht fertig_
 # Grundziele
 
 @ul
-- Überleben
+- Überleben 
 - Erbauen
 - Verteidigen
 - Angreifen
@@ -21,7 +21,7 @@ _Dieses Projekt ist noch nicht fertig_
 
 @ul
 - Base
-- Bett
+- Bett 🛌
 - Werkbank
 - Ofen
 @ulend
@@ -91,7 +91,12 @@ _Dieses Projekt ist noch nicht fertig_
 
 # Verteidigen
 
-
+@ul
+- Rüstung 
+- Schwert ⚔
+- Schild 🛡
+- Bogen (Fernkampf) 🏹
+@ulend
 
 
 ---
