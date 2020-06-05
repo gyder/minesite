@@ -100,5 +100,5 @@ _Dieses Projekt ist noch nicht fertig_
 ---
 # ENDE
 
-Danke fürs Zusehen
+Danke fürs Zusehen,
 Wir sehen uns online 🎮
