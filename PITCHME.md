@@ -98,8 +98,7 @@ _Dieses Projekt ist noch nicht fertig_
 @ulend
 
 ---
-
----
 # ENDE
 
+Danke fürs Zusehen
 Wir sehen uns online 🎮
