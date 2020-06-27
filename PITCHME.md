@@ -37,6 +37,7 @@ _Dieses Projekt ist noch nicht fertig_
 1. Wände 
 1. Ein Dach 
 1. Tür
+1. Keller (möglich)
 @olend
 
 ---
