@@ -4,4 +4,4 @@ Frage 5: Wieviel Herzen hat der Enderdrache?
 
 [1000](falsch.md)
 
-[200](fertig.md)
+[200](antw6.md)
