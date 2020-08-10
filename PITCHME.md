@@ -103,9 +103,9 @@ _Dieses Projekt ist noch nicht fertig_
 
 @ul
 - https://sormuras.github.io/bach/
-- teepau.github.io/minesite
-- teepau.github.io/diablo-sets
-- teepau.github.io/dunkelwald
+- https://teepau.github.io/minesite
+- https://teepau.github.io/diablo-sets
+- https://teepau.github.io/dunkelwald
 ---
 # ENDE
 
