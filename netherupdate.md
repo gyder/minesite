@@ -1,4 +1,4 @@
-Das Nether-Update umfasst sehr viele Blöcke.
+Das Nether-Update umfasst viele Blöcke.
 Besonders in der Kategorie Natur.
 Dort gibt es neue Bäume, Blätter und Ranken.
 In der Kategorie Abenteuer gibt es neue Werkzeuge und Waffen.
