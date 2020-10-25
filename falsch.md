@@ -1,3 +1,3 @@
 Diese Antwort war leider falsch!
 
-[Erneut](quiz.md)
+[Neustart](quiz.md)
