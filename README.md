@@ -1,9 +1,10 @@
 # Minecraft Seite
-    
-Kapitel:
+ 
  
  Auf dieser Website Lernst du, wenn auch nicht alles, über Minecraft.
  
+ Kapitel:
+
 1. [Der Erste Tag](oberwelt.md)
 1. [Monsterjäger](monsterjäger.md)
 1. [Redstone](redstone.md)
