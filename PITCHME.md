@@ -103,10 +103,7 @@ _Dieses Projekt ist noch nicht fertig_
 # Werbung
 
 @ul
-- Bach: https://sormuras.github.io/bach/
 - Minesite: https://teepau.github.io/minesite
-- https://teepau.github.io/diablo-sets
-- https://teepau.github.io/dunkelwald
 @ulend
 
 ---
