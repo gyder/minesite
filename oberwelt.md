@@ -30,7 +30,7 @@ Wenn dein Inventar voll ist Kannst du dir aus **acht** `Holzbrettern` Eine Truhe
 
 Wenn du schon mehr als **acht** `Bruchstein` hast craftest du dir an der Werkbank einen Ofen.
 
-![Ofen](https://www.minecraftcrafting.info/imgs/craft_furnace.png)
+![Ofen](https://static.giga.de/wp-content/uploads/2013/05/minecraft-basis-ofen.jpg)
 
 
 falls du neben einem Dorf spawnst hast du sicherlich mehr als **drei** `Weizen` und kannst dir Brot craften.
