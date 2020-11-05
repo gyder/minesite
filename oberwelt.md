@@ -40,14 +40,14 @@ falls du neben einem Dorf spawnst hast du sicherlich mehr als **drei** `Weizen` 
 
  Damit du dir auch gute Werkzeuge craften kannst ist hier eine Anleitung :
 
-![Spitzhacke](https://www.minecraftcrafting.info/imgs/craft_pick.gif)
+![Spitzhacke](https://www.minecraftcraftingguide.net/img/crafting/pickaxes-crafting.gif)
 Mit einer Spitzhacke baust du Stein effektiver ab.
 
-![Axt](https://www.minecraftcrafting.info/imgs/craft_axe.gif)
+![Axt](https://www.minecraftcraftingguide.net/img/crafting/axes-crafting.gif)
 Eine Axt baut Holz Schneller ab als von Hand.
 
-![Schaufel](https://www.minecraftcrafting.info/imgs/craft_shovel.gif)
+![Schaufel](https://www.minecraftcraftingguide.net/img/crafting/shovels-crafting.gif)
 Eine Schaufel Gräbt sich ganz schnell durch Erde, Kies und Sand.
 
-![Hacke](https://www.minecraftcrafting.info/imgs/craft_hoe.gif)
+![Hacke](https://www.minecraftcraftingguide.net/img/crafting/hoes-crafting.gif)
 Mit einer Hacke pflügst du Erde damit du deine Saat säen kannst.
