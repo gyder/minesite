@@ -108,7 +108,7 @@ Und nun die einzigen zwei Bosse von Minecraft:
 
 Damit du auch gut gegen diese Monster geschützt bist kommen nun ein par Rezepte für deine verteidigung.
 
-![Helm](https://www.minecraftcrafting.info/imgs/craft_helmet.gif)
-![Brustplatte](https://www.minecraftcrafting.info/imgs/craft_chestplate.gif)
-![Hose](https://www.minecraftcrafting.info/imgs/craft_leggings.gif)
-![Schuhe](https://www.minecraftcrafting.info/imgs/craft_boots.gif)
+![Helm](https://www.minecraftcraftingguide.net/img/crafting/helmets-crafting.gif)
+![Brustplatte](https://www.minecraftcraftingguide.net/img/crafting/chestplates-crafting.gif)
+![Hose](https://www.minecraftcraftingguide.net/img/crafting/leggins-crafting.gif)
+![Schuhe](https://www.minecraftcraftingguide.net/img/crafting/boots-crafting.gif)
