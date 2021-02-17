@@ -2,8 +2,6 @@
 
 Dies ist eine Minecraft-Präsentation.
 
-_Dieses Projekt ist noch nicht fertig_
-
 ---
 
 # Grundziele
