@@ -1,9 +1,9 @@
 # Minecraft Seite
  
  
- Auf dieser Website Lernst du, wenn auch nicht alles, über Minecraft.
+Auf dieser Website lernst du, wenn auch nicht alles, über Minecraft.
  
- Kapitel:
+Kapitel:
 
 1. [Der Erste Tag](oberwelt.md)
 1. [Monsterjäger](monsterjäger.md)
