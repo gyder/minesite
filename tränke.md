@@ -3,7 +3,7 @@
  [Hauptseite](README.md)
  
  Tränke sind die höchste Form von Minecraft.
- Für Tränke benötigst du einen Braustand,Flaschen und Zutaten.
+ Um Tränke zu brauen benötigst du einen Braustand, Flaschen, einen "Antrieb" (Lohenrute) und Zutaten.
 
  ![Braustand](https://www.minecraftcrafting.info/imgs/craft_brewingstand.png)
  ![Flasche](https://www.minecraftcrafting.info/imgs/craft_glassbottle.png)

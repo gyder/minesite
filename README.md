@@ -13,5 +13,3 @@ Kapitel:
 1. [Tränke](tränke.md)
 1. [Das Nether-Update](netherupdate.md)
 1. [Quiz](quiz.md)
-
-Ich habe auch eine [Minecraft-Präsentation](https://gitpitch.com/teepau/minesite) gebaut. 
