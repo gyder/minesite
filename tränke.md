@@ -20,3 +20,5 @@
 |Unterwasser<wbr>atmung|Kugelfisch + Seltsamer Trank|Spieler atmet unter Wasser länger|Normal: 3:00 m<br>Verlängert: 8:00 m|
 |Sprungkraft|Hasenpfote + Seltsamer Trank|Spiele springt höher, weniger Schaden beim Fallen|Normal: 3:00 m<br>Verlängert: 8:00 m|
 |Unsichtbarkeit|Fermentiertes Spinnenauge + Seltsamer Trank|Spieler wird unsichtbar|Normal: 3:00 m<br>Verlängert: 8:00 m|
+
+![Tränke Übersicht](https://static.wikia.nocookie.net/minecraft_de_gamepedia/images/4/4b/Brauen_einfach.png/revision/latest/scale-to-width-down/800?cb=20200511154138)
